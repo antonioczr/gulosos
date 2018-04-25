@@ -1,0 +1,2 @@
+# gulosos
+Algoritmos Gulosos
