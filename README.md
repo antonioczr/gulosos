@@ -1,2 +1,2 @@
-# gulosos
-Algoritmos Gulosos
+# Algoritmos Gulosos Prim, Kurskal e Dijkstra
+
